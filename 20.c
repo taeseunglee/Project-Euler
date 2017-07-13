@@ -4,7 +4,7 @@
 #define MODE 1
 
 // DTYPE = int or long long int
-// Implment big int array using DTYPE data type
+// Implment big int using DTYPE Array
 #if MODE == 1
   #define DTYPE int
 // EXP = 10^6
